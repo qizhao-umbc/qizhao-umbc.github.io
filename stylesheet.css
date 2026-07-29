@@ -247,8 +247,16 @@ img {
   color: var(--muted);
 }
 
+.project-summary {
+  margin: 8px 0 0;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
 .project-links {
-  margin: 6px 0 0;
+  margin: 8px 0 0;
   font-size: 14px;
 }
 
